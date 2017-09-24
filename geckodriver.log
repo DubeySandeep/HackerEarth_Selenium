@@ -1,0 +1,2193 @@
+1506237633983	geckodriver	INFO	geckodriver 0.19.0
+1506237633989	geckodriver	INFO	Listening on 127.0.0.1:39853
+1506237657102	geckodriver	INFO	geckodriver 0.19.0
+1506237657108	geckodriver	INFO	Listening on 127.0.0.1:33013
+1506239305436	geckodriver	INFO	geckodriver 0.19.0
+1506239305444	geckodriver	INFO	Listening on 127.0.0.1:33700
+1506239306641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sKekUxHiswS2"
+1506239307826	Marionette	INFO	Enabled via --marionette
+
+(firefox:29639): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29639): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29639): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29639): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29699): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29699): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29699): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29699): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506239311847	Marionette	INFO	Listening on port 52367
+1506239312096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506239312177	Marionette	DEBUG	loaded listener.js
+1506239312230	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506239314160	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506239314160	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506239329211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506239334729	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506239337982	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506239338581	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506239338862	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1506239340832	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506239341672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f30a5f4facd1b12&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506239341675	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f30a5f4facd1b12&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506239345135	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506239345209	Marionette	INFO	New connections will no longer be accepted
+[Child 29699] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 0 flags 01101 path /tmp/GeckoChildCrash29699.extra
+1506239369327	geckodriver	INFO	geckodriver 0.19.0
+1506239369333	geckodriver	INFO	Listening on 127.0.0.1:57867
+1506239370593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bMX7erSNiIiJ"
+1506239371559	Marionette	INFO	Enabled via --marionette
+
+(firefox:29770): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29770): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29770): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29770): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29826): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29826): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29826): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29826): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506239375359	Marionette	INFO	Listening on port 55574
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506239375428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506239375490	Marionette	DEBUG	loaded listener.js
+1506239375522	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506239378650	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506239378650	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506239388091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1506239388093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Parent 29770] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506239391787	geckodriver	INFO	geckodriver 0.19.0
+1506239391795	geckodriver	INFO	Listening on 127.0.0.1:47895
+1506239393047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ch6mNDu4mPuM"
+1506239394207	Marionette	INFO	Enabled via --marionette
+
+(firefox:29894): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29894): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:29894): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:29894): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29948): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29948): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:29948): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506239397650	Marionette	INFO	Listening on port 45832
+1506239397898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506239397988	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506239398042	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506239399809	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506239399809	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506239407270	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506239417395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506239419798	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506239421768	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f285a8b11f521d6&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506239421772	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f285a8b11f521d6&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506239426669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506239427542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506239429145	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506239429210	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506239429299	Marionette	INFO	New connections will no longer be accepted
+[Child 29948] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 0 flags 01101 path /tmp/GeckoChildCrash29948.extra
+1506239451104	geckodriver	INFO	geckodriver 0.19.0
+1506239451110	geckodriver	INFO	Listening on 127.0.0.1:37452
+1506239452299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tGREOnmlMQXV"
+1506239453205	Marionette	INFO	Enabled via --marionette
+
+(firefox:30026): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30026): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30026): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30026): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30083): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30083): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30083): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30083): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506239456803	Marionette	INFO	Listening on port 57901
+1506239456887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506239456949	Marionette	DEBUG	loaded listener.js
+1506239456998	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506239458808	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506239458809	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506239465406	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506239476860	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506239482319	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506239482625	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506239483263	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=ff60b881d0b19&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506239483267	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=ff60b881d0b19&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506239483436	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506239484949	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506239501277	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506239501702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506239501723	Marionette	INFO	New connections will no longer be accepted
+[Child 30083] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506240097448	geckodriver	INFO	geckodriver 0.19.0
+1506240097452	geckodriver	INFO	Listening on 127.0.0.1:49814
+1506240098624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h0REyzZBku3Z"
+1506240099631	Marionette	INFO	Enabled via --marionette
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30389): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30389): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30389): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30389): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506240102790	Marionette	INFO	Listening on port 40027
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506240102930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506240103000	Marionette	DEBUG	loaded listener.js
+1506240103046	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506240108024	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506240108024	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506240121189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506240128375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506240128562	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506240128667	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506240130635	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506240133439	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506240134680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f20e239181c5764&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506240134683	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f20e239181c5764&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506240145546	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506240145965	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30334): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506240237964	geckodriver	INFO	geckodriver 0.19.0
+1506240237969	geckodriver	INFO	Listening on 127.0.0.1:36071
+1506240239137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.e9jeNlfNzzQs"
+1506240239999	Marionette	INFO	Enabled via --marionette
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30533): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30533): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30533): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30533): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506240243023	Marionette	INFO	Listening on port 45953
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506240243156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506240243228	Marionette	DEBUG	loaded listener.js
+1506240243273	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506240246361	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506240246362	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506240253913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506240260646	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506240262822	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506240264200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506240266381	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506240266698	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506240268205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f103e5d72586d18&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506240268208	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f103e5d72586d18&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506240275970	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506240276368	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30474): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506240335043	geckodriver	INFO	geckodriver 0.19.0
+1506240335048	geckodriver	INFO	Listening on 127.0.0.1:34853
+1506240336212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.whS617bCz6In"
+1506240337153	Marionette	INFO	Enabled via --marionette
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30756): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30756): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30756): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:30756): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506240340481	Marionette	INFO	Listening on port 41229
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506240340608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506240340678	Marionette	DEBUG	loaded listener.js
+1506240340741	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506240343183	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506240343183	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506240352972	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506240362188	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506240363791	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f3e04378f8d764a&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506240363794	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f3e04378f8d764a&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506240364193	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506240365753	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1506240367150	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506240369176	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506240373616	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506240374024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:30702): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506240891244	geckodriver	INFO	geckodriver 0.19.0
+1506240891249	geckodriver	INFO	Listening on 127.0.0.1:55765
+1506240892415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GDF6NfUB6hQD"
+1506240893518	Marionette	INFO	Enabled via --marionette
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31366): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31366): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31366): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31366): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506240896901	Marionette	INFO	Listening on port 37229
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506240896936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506240896985	Marionette	DEBUG	loaded listener.js
+1506240897011	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506240907435	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506240907436	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506240912779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506240923368	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506240924933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f11d9321557c464&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506240924936	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f11d9321557c464&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506240928641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1506240930916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506240931169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1506240933078	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506240933145	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506240933554	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506241098056	geckodriver	INFO	geckodriver 0.19.0
+1506241098063	geckodriver	INFO	Listening on 127.0.0.1:51572
+1506241099522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wh2NdtwnKFKX"
+1506241101084	Marionette	INFO	Enabled via --marionette
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31568): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31568): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31568): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31568): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506241105369	Marionette	INFO	Listening on port 36485
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506241105467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506241105553	Marionette	DEBUG	loaded listener.js
+1506241105613	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506241114618	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506241114618	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506241129362	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506241131973	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506241133690	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506241133842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506241135719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506241136074	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506241136816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f1b91d7a6454af8&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506241136819	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f1b91d7a6454af8&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506241140121	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506241140603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(/usr/lib/firefox/firefox:31666): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31666): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31666): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31666): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506241254687	geckodriver	INFO	geckodriver 0.19.0
+1506241254696	geckodriver	INFO	Listening on 127.0.0.1:58372
+1506241256105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eZfUsuc58N6A"
+1506241257209	Marionette	INFO	Enabled via --marionette
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31855): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:31855): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506241261194	Marionette	INFO	Listening on port 43823
+1506241261263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506241261332	Marionette	DEBUG	loaded listener.js
+1506241261387	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506241263364	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506241263364	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31512): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506241278588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506241278691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506241281453	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506241283010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506241286264	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506241286844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f3c9ab01b7f308c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506241286847	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f3c9ab01b7f308c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506241288012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506241297466	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506241297865	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506241510788	geckodriver	INFO	geckodriver 0.19.0
+1506241510795	geckodriver	INFO	Listening on 127.0.0.1:41262
+1506241512053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cXSq4aCobWBb"
+1506241513252	Marionette	INFO	Enabled via --marionette
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(/usr/lib/firefox/firefox:32023): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32023): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32023): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32023): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31794): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506241517212	Marionette	INFO	Listening on port 54945
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506241517284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506241517330	Marionette	DEBUG	loaded listener.js
+1506241517379	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506241527624	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506241527624	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506241535216	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506241544894	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506241549514	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506241551209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f37e7f28904994a&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506241551213	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f37e7f28904994a&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506241555136	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506241555390	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1506241557263	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506241557736	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506241557997	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.hackerearth.com/"
+1506241558165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:31961): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506241936432	geckodriver	INFO	geckodriver 0.19.0
+1506241936438	geckodriver	INFO	Listening on 127.0.0.1:56035
+1506241937603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JAcBrEkgMuj4"
+1506241938538	Marionette	INFO	Enabled via --marionette
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32309): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32309): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506241941533	Marionette	INFO	Listening on port 37014
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506241941723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506241941782	Marionette	DEBUG	loaded listener.js
+1506241941929	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506241946454	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506241946455	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506241950497	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506241964816	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506241972016	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506241972719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f23f9927826bffc&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506241972722	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f23f9927826bffc&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506241977564	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506241977791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1506241979746	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506241979805	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506241980182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242031296	geckodriver	INFO	geckodriver 0.19.0
+1506242031301	geckodriver	INFO	Listening on 127.0.0.1:60737
+1506242032566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Fdi7MVwPx9EC"
+1506242033659	Marionette	INFO	Enabled via --marionette
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32448): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32448): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32448): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32448): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242036862	Marionette	INFO	Listening on port 37733
+1506242036898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506242036954	Marionette	DEBUG	loaded listener.js
+1506242036969	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506242039912	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506242039912	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506242052298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506242060699	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506242063442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2e481dfc212804&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506242063447	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2e481dfc212804&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506242069209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506242069595	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1506242070333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506242071343	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506242073373	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506242073785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32391): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242110610	geckodriver	INFO	geckodriver 0.19.0
+1506242110615	geckodriver	INFO	Listening on 127.0.0.1:52328
+1506242111780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yfMSieqbuGXu"
+1506242112715	Marionette	INFO	Enabled via --marionette
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32653): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32653): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32653): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:32653): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242115757	Marionette	INFO	Listening on port 43547
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506242115909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506242115978	Marionette	DEBUG	loaded listener.js
+1506242116042	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506242126424	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506242126424	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506242139619	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506242145427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506242145985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506242146270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506242147552	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506242148248	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506242148494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=fd323027797212&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506242148496	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=fd323027797212&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506242155499	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506242155736	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.hackerearth.com/"
+1506242155912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506242170618	geckodriver	INFO	geckodriver 0.19.0
+1506242170623	geckodriver	INFO	Listening on 127.0.0.1:56934
+1506242171897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aSRkEQJIQlfd"
+1506242172921	Marionette	INFO	Enabled via --marionette
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:310): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:310): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:310): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:310): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242176851	Marionette	INFO	Listening on port 33192
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506242176935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506242176989	Marionette	DEBUG	loaded listener.js
+1506242177046	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506242181027	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506242181027	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506242189084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506242196975	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506242201026	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506242205732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2a76cffe93e6ca&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506242205736	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2a76cffe93e6ca&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506242205930	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506242206208	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1506242208405	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506242214547	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506242214993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32719): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:32597): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242544956	geckodriver	INFO	geckodriver 0.19.0
+1506242544960	geckodriver	INFO	Listening on 127.0.0.1:36216
+1506242546137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qn7ydZtGtzmw"
+1506242547237	Marionette	INFO	Enabled via --marionette
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:693): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:693): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:693): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:693): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242550870	Marionette	INFO	Listening on port 56698
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506242550967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506242551013	Marionette	DEBUG	loaded listener.js
+1506242570678	geckodriver	INFO	geckodriver 0.19.0
+1506242570682	geckodriver	INFO	Listening on 127.0.0.1:36986
+1506242571855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cYBZjJMwWf18"
+1506242572817	Marionette	INFO	Enabled via --marionette
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:806): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:806): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:806): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:806): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242577066	Marionette	INFO	Listening on port 54158
+1506242577092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506242577138	Marionette	DEBUG	loaded listener.js
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:752): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:635): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242634840	geckodriver	INFO	geckodriver 0.19.0
+1506242634846	geckodriver	INFO	Listening on 127.0.0.1:51700
+1506242636011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aIHEgtDL5LqA"
+1506242636968	Marionette	INFO	Enabled via --marionette
+
+(firefox:893): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:893): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:893): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:893): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:950): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:950): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:950): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242640285	Marionette	INFO	Listening on port 43527
+1506242640519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506242640574	Marionette	DEBUG	loaded listener.js
+1506242640676	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506242652530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506242652531	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506242656506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506242667773	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506242673599	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506242673839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506242673932	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506242678631	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506242679344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=fad15e3a6fe86c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506242679347	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=fad15e3a6fe86c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506242679396	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506242679813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506242680041	Marionette	INFO	New connections will no longer be accepted
+1506242834523	geckodriver	INFO	geckodriver 0.19.0
+1506242834528	geckodriver	INFO	Listening on 127.0.0.1:57647
+1506242835697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V212Pe2nzRCu"
+1506242836630	Marionette	INFO	Enabled via --marionette
+
+(firefox:1209): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1209): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1209): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1209): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1263): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1263): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1263): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1263): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242839651	Marionette	INFO	Listening on port 57772
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506242839782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506242839853	Marionette	DEBUG	loaded listener.js
+1506242840000	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506242841970	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506242841970	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506242859658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506242862692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506242863485	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506242865480	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506242866229	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506242866920	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f16bf9962a41d5e&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506242866922	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f16bf9962a41d5e&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506242867358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506242873705	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506242874095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506242874304	Marionette	INFO	New connections will no longer be accepted
+1506242976942	geckodriver	INFO	geckodriver 0.19.0
+1506242976947	geckodriver	INFO	Listening on 127.0.0.1:55629
+1506242978095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5Q9nLisRPsTJ"
+1506242979005	Marionette	INFO	Enabled via --marionette
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1504): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1504): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1504): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1504): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506242981897	Marionette	INFO	Listening on port 49931
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506242982014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506242982080	Marionette	DEBUG	loaded listener.js
+1506243064278	geckodriver	INFO	geckodriver 0.19.0
+1506243064281	geckodriver	INFO	Listening on 127.0.0.1:39582
+1506243065575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qnVQyj3CYEYv"
+1506243066488	Marionette	INFO	Enabled via --marionette
+
+(firefox:1632): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1632): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1632): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1632): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1691): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1691): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1691): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:1691): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506243069670	Marionette	INFO	Listening on port 57443
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506243069791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506243069865	Marionette	DEBUG	loaded listener.js
+1506243070041	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506243075807	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506243075808	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506243092571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506243092681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506243092897	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506243093100	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506243096630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506243097649	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506243098002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f3c175cdb4e3ba2&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506243098005	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f3c175cdb4e3ba2&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506243108239	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506243108666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506243108748	Marionette	INFO	New connections will no longer be accepted
+[Child 1691] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506243220144	geckodriver	INFO	geckodriver 0.19.0
+1506243220149	geckodriver	INFO	Listening on 127.0.0.1:52531
+1506243221335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XYBAHrus00HI"
+1506243222259	Marionette	INFO	Enabled via --marionette
+
+(firefox:1983): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1983): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1983): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1983): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2039): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2039): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2039): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2039): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506243225402	Marionette	INFO	Listening on port 40241
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506243225535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506243225599	Marionette	DEBUG	loaded listener.js
+1506243225750	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506243229835	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506243229835	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506243241614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506243252068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506243252222	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506243253610	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506243253708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1506243253785	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f11bfbe7a12971e&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506243253791	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f11bfbe7a12971e&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506243254078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506243260680	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506243261100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506243261202	Marionette	INFO	New connections will no longer be accepted
+[Child 2039] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 0 flags 01101 path /tmp/GeckoChildCrash2039.extra
+1506243471890	geckodriver	INFO	geckodriver 0.19.0
+1506243471895	geckodriver	INFO	Listening on 127.0.0.1:58236
+1506243473067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ahk1zUH6kUmw"
+1506243474030	Marionette	INFO	Enabled via --marionette
+
+(firefox:2330): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2330): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2330): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2330): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2388): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2388): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2388): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506243477299	Marionette	INFO	Listening on port 52264
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506243477617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506243477677	Marionette	DEBUG	loaded listener.js
+1506243477790	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506243481523	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506243481524	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:1443): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506243496214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506243497229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506243499097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506243499318	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506243500194	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506243504892	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506243505369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f70c9f4f3d796c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506243505372	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f70c9f4f3d796c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506243513041	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506243513450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506243513557	Marionette	INFO	New connections will no longer be accepted
+Sandbox: Unexpected EOF, op 0 flags 01101 path /tmp/GeckoChildCrash2388.extra
+1506243613945	geckodriver	INFO	geckodriver 0.19.0
+1506243613951	geckodriver	INFO	Listening on 127.0.0.1:54483
+1506243615097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NQMA4wyujmRg"
+1506243615970	Marionette	INFO	Enabled via --marionette
+
+(firefox:2480): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2480): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2480): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2480): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2539): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2539): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2539): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2539): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506243619285	Marionette	INFO	Listening on port 36102
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506243619396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506243619458	Marionette	DEBUG	loaded listener.js
+1506243619580	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506243621621	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506243621622	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506243636550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506243636671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506243639073	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506243640682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506243647391	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506243647414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506243648338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f246443479cb03c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506243648340	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f246443479cb03c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506243653305	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506243653710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506243653753	Marionette	INFO	New connections will no longer be accepted
+1506244198225	geckodriver	INFO	geckodriver 0.19.0
+1506244198231	geckodriver	INFO	Listening on 127.0.0.1:46594
+1506244199421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.r8jv87FYEGQG"
+1506244200315	Marionette	INFO	Enabled via --marionette
+
+(firefox:2890): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2890): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:2890): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:2890): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2944): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2944): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2944): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:2944): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506244203477	Marionette	INFO	Listening on port 46751
+1506244203561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506244203648	Marionette	DEBUG	loaded listener.js
+1506244204076	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506244207614	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506244207615	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506244232267	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506244232472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506244233176	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506244234546	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506244238464	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506244239380	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506244242643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f3b9f120ede1a7a&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506244242645	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f3b9f120ede1a7a&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506244255639	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506244256071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506244256098	Marionette	INFO	New connections will no longer be accepted
+Sandbox: Unexpected EOF, op 0 flags 01101 path /tmp/GeckoChildCrash2944.extra
+1506244600203	geckodriver	INFO	geckodriver 0.19.0
+1506244600208	geckodriver	INFO	Listening on 127.0.0.1:59343
+1506244601367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SOka6LijUGBh"
+1506244602305	Marionette	INFO	Enabled via --marionette
+
+(firefox:3234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3234): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3234): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3288): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3288): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3288): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3288): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506244605422	Marionette	INFO	Listening on port 52225
+1506244605495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506244605564	Marionette	DEBUG	loaded listener.js
+1506244605842	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506244607812	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506244607812	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506244617008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506244631255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506244633432	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506244633572	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506244638097	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506244638212	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506244638812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f248a7b7928d632&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506244638815	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f248a7b7928d632&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506244641789	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506244642358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506244642511	Marionette	INFO	New connections will no longer be accepted
+1506244786125	geckodriver	INFO	geckodriver 0.19.0
+1506244786132	geckodriver	INFO	Listening on 127.0.0.1:43035
+1506244787305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ebRhsjxkOuNC"
+1506244788272	Marionette	INFO	Enabled via --marionette
+
+(firefox:3722): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3722): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3722): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3722): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3780): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3780): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3780): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:3780): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506244791532	Marionette	INFO	Listening on port 53641
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506244791654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506244791736	Marionette	DEBUG	loaded listener.js
+1506244791927	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506244798956	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506244798956	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506244814387	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506244814582	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506244816354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506244816865	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506244819021	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506244820546	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506244821976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f37d0a4053fd7a4&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506244821981	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f37d0a4053fd7a4&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506244832460	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506244833104	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506244833204	Marionette	INFO	New connections will no longer be accepted
+[Child 3780] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 0 flags 01101 path /tmp/GeckoChildCrash3780.extra
+1506244905391	geckodriver	INFO	geckodriver 0.19.0
+1506244905395	geckodriver	INFO	Listening on 127.0.0.1:60932
+1506244906637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8bkgkLIeDvMc"
+1506244907880	Marionette	INFO	Enabled via --marionette
+
+(firefox:3963): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3963): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3963): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3963): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4022): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4022): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4022): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4022): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506244911464	Marionette	INFO	Listening on port 59394
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506244911744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506244911798	Marionette	DEBUG	loaded listener.js
+1506244911927	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506244913865	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506244913866	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506244921296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506244934526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506244934776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506244934902	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506244936828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506244940688	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506244941681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f25f98ff5ea0d26&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506244941684	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f25f98ff5ea0d26&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506244955551	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506244955974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506244956323	Marionette	INFO	New connections will no longer be accepted
+[Child 4022] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506245048451	geckodriver	INFO	geckodriver 0.19.0
+1506245048455	geckodriver	INFO	Listening on 127.0.0.1:48729
+1506245049648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0cQNuWlEbD2T"
+1506245050618	Marionette	INFO	Enabled via --marionette
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4213): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4213): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4213): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4213): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506245053647	Marionette	INFO	Listening on port 53698
+1506245053767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506245053843	Marionette	DEBUG	loaded listener.js
+1506245054174	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506245058361	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506245058362	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506245062857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506245073042	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506245073070	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=nssFailure2&u=https%3A//www.youtube.com/embed/-QylJgiVbhA%3Fautoplay%3D0%26showinfo%3D0%26rel%3D0&c=UTF-8&f=regular&d=The%20connection%20to%20www.youtube.com%20was%20interrupted%20while%20the%20page%20was%20loading."
+1506245132791	geckodriver	INFO	geckodriver 0.19.0
+1506245132798	geckodriver	INFO	Listening on 127.0.0.1:37686
+1506245134051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.96B6CkFfQ1sN"
+1506245135131	Marionette	INFO	Enabled via --marionette
+
+(firefox:4290): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4290): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4155): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4350): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4350): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4350): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4350): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506245139361	Marionette	INFO	Listening on port 52616
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506245139374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506245139422	Marionette	DEBUG	loaded listener.js
+1506245139558	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506245142126	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506245142126	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506245157656	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506245163945	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506245165381	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506245166484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2a1a7ac9c91a9e&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506245166487	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2a1a7ac9c91a9e&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506245169082	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506245169365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1506245169640	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506245197847	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506245198268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506245198628	Marionette	INFO	New connections will no longer be accepted
+[Child 4350] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506245491975	geckodriver	INFO	geckodriver 0.19.0
+1506245491984	geckodriver	INFO	Listening on 127.0.0.1:33358
+1506245493175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iyBV6SArdkEE"
+1506245494145	Marionette	INFO	Enabled via --marionette
+
+(firefox:4488): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4488): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4488): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4488): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4551): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4551): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4551): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4551): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506245497555	Marionette	INFO	Listening on port 44085
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506245497597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506245497657	Marionette	DEBUG	loaded listener.js
+1506245497812	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506245499847	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506245499848	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506245508143	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506245523379	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506245523520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506245523770	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506245524249	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506245525182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f7154cd5d9047c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506245525186	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f7154cd5d9047c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506245525664	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506245530202	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506245530503	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.hackerearth.com/"
+1506245530657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506245540984	Marionette	INFO	New connections will no longer be accepted
+1506245742861	geckodriver	INFO	geckodriver 0.19.0
+1506245742867	geckodriver	INFO	Listening on 127.0.0.1:45885
+1506245744025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uvwOZhft2VeR"
+1506245745141	Marionette	INFO	Enabled via --marionette
+
+(firefox:4754): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4754): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4754): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4815): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4815): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4815): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4815): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506245748923	Marionette	INFO	Listening on port 42927
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506245748949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506245749000	Marionette	DEBUG	loaded listener.js
+1506245749108	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506245802522	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506245802547	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506245802548	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506245802549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1506245806557	geckodriver	INFO	geckodriver 0.19.0
+1506245806566	geckodriver	INFO	Listening on 127.0.0.1:34185
+1506245807760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ptsSC3YWADJg"
+1506245808628	Marionette	INFO	Enabled via --marionette
+
+(firefox:4878): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4878): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4878): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4878): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4934): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4934): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4934): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:4934): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506245811939	Marionette	INFO	Listening on port 43806
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506245812173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506245812284	Marionette	DEBUG	loaded listener.js
+1506245812457	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506245819546	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506245819546	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506245822838	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506245833302	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506245841149	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506245842487	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f18bc265465f9c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506245842491	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f18bc265465f9c&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506245844844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506245845092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506245846967	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506245847034	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506245847445	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506245857792	Marionette	INFO	New connections will no longer be accepted
+Sandbox: Unexpected EOF, op 0 flags 01101 path /tmp/GeckoChildCrash4934.extra
+1506245924126	geckodriver	INFO	geckodriver 0.19.0
+1506245924131	geckodriver	INFO	Listening on 127.0.0.1:41181
+1506245925371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XVLIEi6u6BWs"
+1506245926408	Marionette	INFO	Enabled via --marionette
+
+(firefox:5023): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5023): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5023): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5023): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5079): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5079): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5079): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5079): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506245929935	Marionette	INFO	Listening on port 49185
+1506245930242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506245930300	Marionette	DEBUG	loaded listener.js
+1506245930433	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506245932665	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506245932666	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506245940077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506245949921	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506245953180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506245953509	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2eb651fc5b8096&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506245953513	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2eb651fc5b8096&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506245954117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1506245955897	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506245964265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506245966720	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506245967145	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506245977450	Marionette	INFO	New connections will no longer be accepted
+1506246360007	geckodriver	INFO	geckodriver 0.19.0
+1506246360015	geckodriver	INFO	Listening on 127.0.0.1:38511
+1506246361185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.P924sFyFKhum"
+1506246362164	Marionette	INFO	Enabled via --marionette
+
+(firefox:5299): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5299): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5299): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5299): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5353): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5353): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5353): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5353): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506246366228	Marionette	INFO	Listening on port 44762
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506246366310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506246366356	Marionette	DEBUG	loaded listener.js
+1506246366485	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506246368334	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506246368335	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506246371366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506246383986	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506246393531	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506246393771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1506246393828	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506246394942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f136b348ac15a8e&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506246394945	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f136b348ac15a8e&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506246395783	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506246395844	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506246396249	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506246396855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506246397273	Marionette	INFO	New connections will no longer be accepted
+[Child 5353] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1506246519543	geckodriver	INFO	geckodriver 0.19.0
+1506246519549	geckodriver	INFO	Listening on 127.0.0.1:49197
+1506246520738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JeN7X4AtPCLo"
+1506246521853	Marionette	INFO	Enabled via --marionette
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5551): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5551): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5551): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:5551): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506246525038	Marionette	INFO	Listening on port 33320
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506246525139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506246525195	Marionette	DEBUG	loaded listener.js
+1506246525483	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506246527736	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506246527736	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506246544443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506246544575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506246547176	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506246549359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506246554092	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506246554464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2541f67d0c53d8&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506246554473	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2541f67d0c53d8&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506246555820	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506246558262	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506246558689	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506246559281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5495): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506247416125	geckodriver	INFO	geckodriver 0.19.0
+1506247416128	geckodriver	INFO	Listening on 127.0.0.1:48443
+1506247417345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sulJmU5pSdno"
+1506247418383	Marionette	INFO	Enabled via --marionette
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6274): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6274): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506247421520	Marionette	INFO	Listening on port 38587
+1506247421609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506247421678	Marionette	DEBUG	loaded listener.js
+1506247421844	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506247423856	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506247423857	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506247432325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506247449230	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506247452107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506247452283	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506247452377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1506247453222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f61bc71494e09a&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506247453225	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f61bc71494e09a&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506247454243	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506247457950	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506247458347	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506247458929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://hackerearth.global.ssl.fastly.net/static/js/alljs.js?v=3.7, line 7: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x80000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6212] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6212): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506247482244	geckodriver	INFO	geckodriver 0.19.0
+1506247482248	geckodriver	INFO	Listening on 127.0.0.1:45932
+1506247483385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.D7MP75xwylV5"
+1506247484331	Marionette	INFO	Enabled via --marionette
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6410): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6410): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6410): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6410): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506247487362	Marionette	INFO	Listening on port 52387
+1506247487442	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506247487501	Marionette	DEBUG	loaded listener.js
+1506247487770	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506247496378	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506247496378	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506247505018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506247512180	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506247514757	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506247516567	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f8e787e3d322e8&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506247516570	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f8e787e3d322e8&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506247518990	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506247519237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506247521265	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506247526933	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506247527351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506247527935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6351): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506247537479	geckodriver	INFO	geckodriver 0.19.0
+1506247537484	geckodriver	INFO	Listening on 127.0.0.1:48018
+1506247538751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iYgDynrWs5f2"
+1506247539799	Marionette	INFO	Enabled via --marionette
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6542): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:6542): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506247543147	Marionette	INFO	Listening on port 37814
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506247543406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506247543460	Marionette	DEBUG	loaded listener.js
+1506247543591	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506247545385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506247545386	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506247561570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506247562309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506247563652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506247565236	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506247566123	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506247566401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f26fb760eb626a&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506247566403	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f26fb760eb626a&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506247566981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506247575727	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506247576125	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506247576742	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1656, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1656, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1656, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1656, column: 0
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6486): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506248014972	geckodriver	INFO	geckodriver 0.19.0
+1506248014977	geckodriver	INFO	Listening on 127.0.0.1:42918
+1506248016145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cTW7ys7Rh7mj"
+1506248017012	Marionette	INFO	Enabled via --marionette
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7041): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7041): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7041): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:7041): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1506248020246	Marionette	INFO	Listening on port 41823
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506248020370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506248020436	Marionette	DEBUG	loaded listener.js
+1506248020608	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506248022704	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506248022705	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506248031332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.hackerearth.com/"
+1506248043081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506248043327	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506248045599	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/-QylJgiVbhA?autoplay=0&showinfo=0&rel=0"
+1506248046045	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1506248047349	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506248050439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2a6db4230b00b2&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506248050441	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f2a6db4230b00b2&origin=https%3A%2F%2Fwww.hackerearth.com"
+1506248055940	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.hackerearth.com/"
+1506248056171	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.hackerearth.com/"
+1506248056358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1506248056909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 6986] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-Zj9gRO/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6986): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
